@@ -2,11 +2,12 @@
 
 Front end of the Dapp that allows you to mint NFT with your Metamask wallet. The smart contract of this Dapp is built on the Ethereum blockchain (in Solidity) and is accessible at this address `0x99220f68bC0FFFC30256EbA87910C9ac6837A76B`
 
-👀 watch it live :
+👀 watch it live : [https://nft-collection-front-seven.vercel.app/](https://nft-collection-front-seven.vercel.app/)
 
 ### Stack
 
 - Nextjs
+- Hosted on Vercel
 - Web3Modal
 - ethers.js
 
