@@ -4,6 +4,10 @@ Front end of the Dapp that allows you to mint NFT with your Metamask wallet. The
 
 👀 watch it live : [https://nft-collection-front-seven.vercel.app/](https://nft-collection-front-seven.vercel.app/)
 
+👀[Check the collection on Opensea here](https://testnets.opensea.io/collection/crypto-devs-lsiz9kzmyu)
+
+👀[Check the first NFT of the collection on Opensea here](https://testnets.opensea.io/assets/0xcfA6EF95B7784534361698972A3d712Eb30a9E33/1)
+
 ### Stack
 
 - Nextjs
