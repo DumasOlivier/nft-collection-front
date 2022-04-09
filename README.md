@@ -1,6 +1,6 @@
 # Crypto Devs NFT Collection
 
-Front end of the Dapp that allows you to mint NFT with your Metamask wallet. The smart contract of this Dapp is built on the Ethereum blockchain (in Solidity) and is accessible at this address `0x99220f68bC0FFFC30256EbA87910C9ac6837A76B`
+Front end of the Dapp that allows you to mint NFT with your Metamask wallet. The smart contract of this Dapp is built on the Ethereum blockchain (in Solidity) and is accessible at this address `0xcfA6EF95B7784534361698972A3d712Eb30a9E33`
 
 👀 watch it live : [https://nft-collection-front-seven.vercel.app/](https://nft-collection-front-seven.vercel.app/)
 
